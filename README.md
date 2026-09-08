@@ -1,6 +1,6 @@
 # jamescrissman.com
 
-Personal academic/industry site. Plain HTML/CSS, no build step, hosted on GitHub Pages.
+Personal site.
 
 ## Structure
 - `/` — home
